@@ -1,0 +1,6 @@
+{
+  "name": "Detective Training Simulation",
+  "description": "A web application for training investigative skills. Users can input a case precedent to generate a case overview, key issues, and an investigation plan. The app also generates a mock complaint and allows users to interrogate virtual characters (Complainant, Witness, Suspect) who respond based on their roles and remember previous statements. Chat logs are maintained and can be viewed in raw or summarized form.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
